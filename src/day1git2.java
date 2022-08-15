@@ -5,3 +5,4 @@ public class day1git2 {
     }
 
 }
+
